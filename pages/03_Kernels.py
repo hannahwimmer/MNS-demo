@@ -31,7 +31,7 @@ with cont:
         the matrix row and vector to visualize that fact: """)
     st.latex(r"""
     \begin{aligned}
-    &A = \begin{pmatrix}
+    &Ax = \begin{pmatrix}
     \color{red}{a_{11}} & \color{red}{a_{12}} \\
     \color{gray}{a_{21}} & \color{gray}{a_{22}}
     \end{pmatrix}
