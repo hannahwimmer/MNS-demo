@@ -3,3 +3,4 @@ effect_matrix_demo.py
 GSD_bsp13.py
 singular_values_demo.py
 .venv
+.lock

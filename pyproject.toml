@@ -1,5 +1,5 @@
 [project]
-name = "gsd-scripts"
+name = "MNS"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -8,6 +8,7 @@ dependencies = [
     "matplotlib>=3.10.7",
     "numpy>=2.3.4",
     "plotly>=6.3.1",
+    "reportlab>=4.4.4",
     "shapely>=2.1.2",
     "streamlit>=1.51.0",
 ]
